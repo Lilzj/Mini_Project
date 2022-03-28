@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Services\Implementations\5kibnswp.cu0~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="107.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Onboarding.Utilities\Onboarding.Utilities.csproj" />
+  </ItemGroup>
+
 </Project>

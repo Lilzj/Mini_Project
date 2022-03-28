@@ -1,0 +1,17 @@
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\obj\Debug\net6.0\Onboarding.Utilities.csproj.AssemblyReference.cache
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\obj\Debug\net6.0\Onboarding.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\obj\Debug\net6.0\Onboarding.Utilities.AssemblyInfoInputs.cache
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\obj\Debug\net6.0\Onboarding.Utilities.AssemblyInfo.cs
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\obj\Debug\net6.0\Onboarding.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\bin\Debug\net6.0\Onboarding.Utilities.deps.json
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\bin\Debug\net6.0\Onboarding.Utilities.dll
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\bin\Debug\net6.0\ref\Onboarding.Utilities.dll
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\bin\Debug\net6.0\Onboarding.Utilities.pdb
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\bin\Debug\net6.0\Onboarding.Data.dll
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\bin\Debug\net6.0\Onboarding.Models.dll
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\bin\Debug\net6.0\Onboarding.Data.pdb
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\bin\Debug\net6.0\Onboarding.Models.pdb
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\obj\Debug\net6.0\Onboarding.Utilities.csproj.CopyComplete
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\obj\Debug\net6.0\Onboarding.Utilities.dll
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\obj\Debug\net6.0\ref\Onboarding.Utilities.dll
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Utilities\obj\Debug\net6.0\Onboarding.Utilities.pdb

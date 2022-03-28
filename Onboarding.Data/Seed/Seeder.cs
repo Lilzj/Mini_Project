@@ -14,7 +14,7 @@ namespace Onboarding.Data.Seed
 {
     public class Seeder
     {
-        private static string path = Path.GetFullPath(@"../WemaAssessment.Persistence/Data/");
+        private static string path = Path.GetFullPath(@"../Onboarding.Data/Data.Json/");
         private const string adminPassword = "Secret@123";
 
         public static async Task EnsurePopulated(IApplicationBuilder app)
@@ -36,11 +36,11 @@ namespace Onboarding.Data.Seed
                                               .ServiceProvider.GetRequiredService<UserManager<Customer>>();
 
                 //Seed states with LGA json files
-                var states = GetSampleData<State>(File.ReadAllText(path + "states.json"));
+                var states = GetSampleData<State>(File.ReadAllText(path + "States.json"));
                 await ctx.States.AddRangeAsync(states);
 
                 //Seed the customers
-                var customers = GetSampleData<Customer>(File.ReadAllText(path + "customers.json"));
+                var customers = GetSampleData<Customer>(File.ReadAllText(path + "Customers.json"));
 
                 foreach (var customer in customers)
                 {

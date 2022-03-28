@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onboarding", "Onboarding\Onboarding.csproj", "{B5CC4FCA-2A36-4A52-8C45-C5A1738365E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Onboarding", "Onboarding\Onboarding.csproj", "{B5CC4FCA-2A36-4A52-8C45-C5A1738365E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onboarding.Models", "Onboarding.Models\Onboarding.Models.csproj", "{3CD2AEE2-173E-4763-ABE5-19D142A71FFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Onboarding.Models", "Onboarding.Models\Onboarding.Models.csproj", "{3CD2AEE2-173E-4763-ABE5-19D142A71FFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onboarding.Core", "Onboarding.Core\Onboarding.Core.csproj", "{F17C11D9-67A6-4A92-B9A4-42FD001E6C07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Onboarding.Core", "Onboarding.Core\Onboarding.Core.csproj", "{F17C11D9-67A6-4A92-B9A4-42FD001E6C07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onboarding.Data", "Onboarding.Data\Onboarding.Data.csproj", "{8C4C591C-8751-470E-85A1-B24CD7BB68C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Onboarding.Data", "Onboarding.Data\Onboarding.Data.csproj", "{8C4C591C-8751-470E-85A1-B24CD7BB68C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onboarding.Utilities", "Onboarding.Utilities\Onboarding.Utilities.csproj", "{444AB199-AFE8-4C89-829B-EB8A075F9F99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8C4C591C-8751-470E-85A1-B24CD7BB68C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C4C591C-8751-470E-85A1-B24CD7BB68C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C4C591C-8751-470E-85A1-B24CD7BB68C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444AB199-AFE8-4C89-829B-EB8A075F9F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444AB199-AFE8-4C89-829B-EB8A075F9F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444AB199-AFE8-4C89-829B-EB8A075F9F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444AB199-AFE8-4C89-829B-EB8A075F9F99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

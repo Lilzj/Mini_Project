@@ -1,0 +1,17 @@
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\bin\Debug\net6.0\Onboarding.Data.deps.json
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\bin\Debug\net6.0\Onboarding.Data.runtimeconfig.json
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\bin\Debug\net6.0\Onboarding.Data.dll
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\bin\Debug\net6.0\ref\Onboarding.Data.dll
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\bin\Debug\net6.0\Onboarding.Data.pdb
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\bin\Debug\net6.0\Onboarding.Models.dll
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\bin\Debug\net6.0\Onboarding.Models.pdb
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\obj\Debug\net6.0\Onboarding.Data.csproj.AssemblyReference.cache
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\obj\Debug\net6.0\Onboarding.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\obj\Debug\net6.0\Onboarding.Data.AssemblyInfoInputs.cache
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\obj\Debug\net6.0\Onboarding.Data.AssemblyInfo.cs
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\obj\Debug\net6.0\Onboarding.Data.csproj.CoreCompileInputs.cache
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\obj\Debug\net6.0\Onboarding.Data.csproj.CopyComplete
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\obj\Debug\net6.0\Onboarding.Data.dll
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\obj\Debug\net6.0\ref\Onboarding.Data.dll
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\obj\Debug\net6.0\Onboarding.Data.pdb
+C:\Users\lilzj\source\repos\Onboarding\Onboarding.Data\obj\Debug\net6.0\Onboarding.Data.genruntimeconfig.cache

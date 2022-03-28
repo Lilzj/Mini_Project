@@ -2,7 +2,7 @@
   {
     "name": "Abia State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Aba South"
       },
@@ -56,7 +56,7 @@
   {
     "name": "Adamawa State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Fufure"
       },
@@ -121,7 +121,7 @@
   },
   {
     "name": "Akwa Ibom State",
-    "locals": [
+    "LGAs": [
       {
         "name": "Eastern Obolo"
       },
@@ -216,7 +216,7 @@
   },
   {
     "name": "Anambra State",
-    "locals": [
+    "LGAs": [
       {
         "name": "Anambra East"
       },
@@ -297,7 +297,7 @@
   {
     "name": "Bauchi State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Bauchi"
 
@@ -379,7 +379,7 @@
   {
     "name": "Bayelsa State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Ekeremor"
 
@@ -413,7 +413,7 @@
   {
     "name": "Benue State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Apa"
 
@@ -507,7 +507,7 @@
   {
     "name": "Borno State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Askira\/Uba"
 
@@ -617,7 +617,7 @@
   {
     "name": "Cross River State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Akamkpa"
 
@@ -691,7 +691,7 @@
   {
     "name": "Delta State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Aniocha South"
 
@@ -793,7 +793,7 @@
   {
     "name": "Ebonyi State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Afikpo North"
 
@@ -847,7 +847,7 @@
   {
     "name": "Edo State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Egor"
 
@@ -921,7 +921,7 @@
   {
     "name": "Ekiti State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Efon"
 
@@ -987,7 +987,7 @@
   {
     "name": "Enugu State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Awgu"
 
@@ -1057,7 +1057,7 @@
   {
     "name": "FCT",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Bwari"
 
@@ -1083,7 +1083,7 @@
   {
     "name": "Gombe State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Balanga"
 
@@ -1129,7 +1129,7 @@
   {
     "name": "Imo State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Ahiazu Mbaise"
 
@@ -1239,7 +1239,7 @@
   {
     "name": "Jigawa State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Babura"
 
@@ -1349,7 +1349,7 @@
   {
     "name": "Kaduna State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Chikun"
 
@@ -1443,7 +1443,7 @@
   {
     "name": "Kano State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Albasu"
 
@@ -1621,7 +1621,7 @@
   {
     "name": "Katsina State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Batagarawa"
 
@@ -1759,7 +1759,7 @@
   {
     "name": "Kebbi State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Arewa Dandi"
 
@@ -1845,7 +1845,7 @@
   {
     "name": "Kogi State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Ajaokuta"
 
@@ -1931,7 +1931,7 @@
   {
     "name": "Kwara State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Baruten"
 
@@ -1997,7 +1997,7 @@
   {
     "name": "Lagos State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Ajeromi-Ifelodun"
 
@@ -2079,7 +2079,7 @@
   {
     "name": "Nasarawa State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Awe"
 
@@ -2133,7 +2133,7 @@
   {
     "name": "Niger State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Agwara"
 
@@ -2235,7 +2235,7 @@
   {
     "name": "Ogun State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Abeokuta South"
 
@@ -2317,7 +2317,7 @@
   {
     "name": "Ondo State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Akoko North-West"
 
@@ -2391,7 +2391,7 @@
   {
     "name": "Osun State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Atakunmosa West"
 
@@ -2513,7 +2513,7 @@
   {
     "name": "Oyo State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Akinyele"
 
@@ -2647,7 +2647,7 @@
   {
     "name": "Plateau State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Barkin Ladi"
 
@@ -2717,7 +2717,7 @@
   {
     "name": "Rivers State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Ahoada East"
 
@@ -2811,7 +2811,7 @@
   {
     "name": "Sokoto State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Bodinga"
 
@@ -2905,7 +2905,7 @@
   {
     "name": "Taraba State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Bali"
 
@@ -2971,7 +2971,7 @@
   {
     "name": "Yobe State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Bursari"
 
@@ -3040,7 +3040,7 @@
   {
     "name": "Zamfara State",
 
-    "locals": [
+    "LGAs": [
       {
         "name": "Bakura"
 
